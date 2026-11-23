@@ -1,0 +1,2 @@
+Source: https://github.com/munza/herdr-mods (commit ffbdb6d, folder better-sidebar/mods/better-sidebar)
+Installed as herdr-app/mods/better-sidebar. Modified by herdr-config (2026-11-13): machine-group drag reordering and a `machine_order` setting (views/spaces.js, mod.schema.json); machine names, agent names and the space beside them at 14px (views/spaces.js, views/agents.js); tests copied to herdr-app/tests/ with additions. Every change is marked "herdr-config:". Apache-2.0; see LICENSE and NOTICE here.
